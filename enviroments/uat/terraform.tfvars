@@ -1,0 +1,5 @@
+name       = "demonstration"
+env        = "uat"
+gcp_region = "europe-west4"
+gcp_zone = "europe-west4-a"
+gcp_project = "home-page-346407"
